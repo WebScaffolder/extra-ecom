@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"..\\components\\Product\\ProductForm.js -> @mantine/rte":{id:1881,files:["static/chunks/eabe11fc.de99fbe1b3287538.js","static/chunks/ef6529d7.85d2bf123e5c1b83.js","static/chunks/6150.ce64778c5ba23ad1.js"]}};
