@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "tikrexco_jamialh",
+        "password": "Moon007!786",
+        "database": "tikrexco_luan",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "tikrexco_jamialh",
+        "password": "123456",
+        "database": "tikrexco_luan",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "tikrexco_jamialh",
+        "password": "Moon007!786",
+        "database": "tikrexco_luan",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
