@@ -1,4 +1,4 @@
 const baseUrl = process.env.NODE_ENV === "production" 
-? 'https://luan-react.hibotheme.com' 
+? 'https://extra-ecom.vercel.app' 
 : 'http://localhost:3000';
 export default baseUrl;
