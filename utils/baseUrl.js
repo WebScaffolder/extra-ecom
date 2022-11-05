@@ -1,3 +1,3 @@
-const baseUrl = 'https://obscure-beyond-65777.herokuapp.com';
+const baseUrl = 'https://luan-react.hibotheme.com';
 export default baseUrl;
 
