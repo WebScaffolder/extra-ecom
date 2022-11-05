@@ -1,3 +1,3 @@
-const baseUrl = 'https://extra-ecom.vercel.app';
+const baseUrl = 'https://obscure-beyond-65777.herokuapp.com';
 export default baseUrl;
 
