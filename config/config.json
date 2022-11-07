@@ -13,14 +13,14 @@
         "host": "ec2-54-228-32-29.eu-west-1.compute.amazonaws.com",
         "dialect": "postgres"
     },
-    production: {
-          use_env_variable: 'DATABASE_URL',
-          dialect: 'postgres',
-          dialectOptions: {
-            ssl: {
-              require: true,
-              rejectUnauthorized: false, // <<<<<<< YOU NEED THIS TO FIX UNHANDLED REJECTION 
-            },
+    "production": {
+        "use_env_variable": "DATABASE_URL",
+        "dialect": "postgres",
+        "dialectOptions": {
+          "ssl": {
+            "require": true,
+            "rejectUnauthorized": false
           },
-        }
+        },
+      }
 }
