@@ -10,7 +10,7 @@ import Product from './product';
 import Order from './order';
 import OrderItem from './orderitems';
 
-
+console.log("xxxx", config);
 
 let sequelize;
 if (config.use_env_variable) {
