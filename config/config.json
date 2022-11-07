@@ -14,7 +14,7 @@
         "dialect": "postgres"
     },
     "production": {
-        "use_env_variable": process.env.DATABASE_URL,
+        use_env_variable: process.env.DATABASE_URL,
         "username": "tbnjhebqixntzg",
         "password": "94891aae919f9e9869897897cf5171dae7a7e412c96e2ccb1936bd874c095405",
         "database": "d9ms4408n3hl30",
