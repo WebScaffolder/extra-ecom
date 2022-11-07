@@ -17,7 +17,7 @@ module.exports = {
         STRIPE_SECRET_KEY: "...",
         STRIPE_PUBLISHABLE_KEY: "..."
     },
-    trailingSlash: true,
+    trailingSlash: false,
     async headers() {
         return [
           {
